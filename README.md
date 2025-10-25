@@ -1,1 +1,4 @@
-A static clone of Amazon’s homepage created using HTML and CSS. This project focuses on layout, design, and responsive styling — mimicking Amazon’s front page interface , for learning purpose.
+
+# A static clone of Amazon’s homepage created using HTML and CSS. This project focuses on layout, design, and responsive styling — mimicking Amazon’s front page interface.
+ 
+
